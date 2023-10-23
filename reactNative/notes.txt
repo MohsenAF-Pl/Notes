@@ -1,0 +1,13 @@
+plugins we need:
+  react native tools --> lets us debug our app
+  react native/react/redux snippet --> code snippets
+  prettire --> for formatting the code
+  material icon theme --> icon pack, to navigate in files easier
+
+
+we use expo-cli which installs throu npm, expo is an easier way to begin and build mobile app using react native for beginners.
+
+apparently expo has been changed a lot since this course, you need to read the docs to see the changes and learn about them.
+
+
+seen til middle of 7
